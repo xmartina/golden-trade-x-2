@@ -507,6 +507,17 @@
 
 <!-- Our Stock Section -->
 
+<section class="our-stock py-5">
+    <div class="container">
+        <div class="row gx-3">
+            <div class="col-lg-7">
+                <h2 class="text-dark">Our Stock Plans</h2>
+                <div class="text-muted">Our featured stock is a well-established and innovated at the forefront of its industry. </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- End Our Stock Section -->
 
 <!--Business star-->
