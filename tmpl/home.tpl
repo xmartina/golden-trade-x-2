@@ -510,7 +510,7 @@
 <section class="dream gap no-top">
     <div class="container">
         <div class="row gx-3">
-            <div class="col-lg-7">
+            <div class="col-lg-8">
                 <div class="your-dream aos-init aos-animate" data-aos="fade-up" data-aos-delay="400" data-aos-duration="600">
                     <h3 class="text-dark">Our Stock Plans</h3>
                     <p class="text-muted">Our featured stock is a well-established and innovated at the forefront of its industry. </p>
