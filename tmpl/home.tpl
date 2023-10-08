@@ -9,7 +9,7 @@
 
 
 
-{*<section class="Provide-Premium" style="background-image: url(./img/petteren.jpg)">*}
+<section class="Provide-Premium" style="background-image: url(./img/petteren.jpg)">
 
 
 
@@ -499,7 +499,7 @@
 
 
 
-{*</section>*}
+</section>
 
 
 
