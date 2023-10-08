@@ -507,12 +507,12 @@
 
 <!-- Our Stock Section -->
 
-<section class="our-stock py-5">
+<section class="dream gap no-top">
     <div class="container">
         <div class="row gx-3">
             <div class="col-lg-7">
-                <h2 class="text-dark">Our Stock Plans</h2>
-                <div class="text-muted">Our featured stock is a well-established and innovated at the forefront of its industry. </div>
+                <h3 class="text-dark">Our Stock Plans</h3>
+                <p class="text-muted">Our featured stock is a well-established and innovated at the forefront of its industry. </p>
             </div>
         </div>
     </div>
