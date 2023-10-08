@@ -519,7 +519,7 @@
         </div>
         <div class="row my-5">
             <div class="col-lg-3">
-                <div class="py-3 px-4 shadow-sm rounded">
+                <div class="py-3 px-4 shadow rounded">
                     <div class="row">
                         <div class="col-lg-4">
                             <span class="font-weight-bold">Stock Name - </span>
