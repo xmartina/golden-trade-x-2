@@ -517,6 +517,20 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="py-3 px-4 shadow-sm">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <span class="font-weight-bold">Stock Name - </span>
+                        </div>
+                        <div class="col-lg-8">
+                            (Dow jones)- Dow Jones Industrial Average
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
