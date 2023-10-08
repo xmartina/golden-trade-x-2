@@ -519,15 +519,10 @@
         </div>
         <div class="row my-5">
             <div class="col-lg-3">
-                <div class="py-3 px-4 shadow rounded">
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <span class="font-weight-bold">Stock Name - </span>
-                        </div>
-                        <div class="col-lg-8">
-                            (Dow jones)- Dow Jones Industrial Average
-                        </div>
-                    </div>
+                <div class="py-2 px-4 shadow rounded">
+                    <span class="h4 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                    <div class="text-warning">7.15M Requests . 9%</div>
+
                 </div>
             </div>
         </div>
